@@ -1,5 +1,5 @@
 
-const fechaFinal = new Date("2025-07-10T14:10:00").getTime();
+const fechaFinal = new Date("2025-07-09T14:00:00").getTime();
 
 function actualizarContador() {
   const ahora = new Date().getTime();
